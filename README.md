@@ -34,7 +34,7 @@ Charts: **Employee Headcount by Department**, **Employee Hires by Month**, **Att
 
 Slicers: **Department**, **Gender** and **Status**.
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](Screenshots/executive-overview.png)
 
 ### 2. Recruitment Analytics
 
@@ -42,7 +42,7 @@ KPI cards: **Total Candidates**, **Total Hires**, **Recruitment Success Rate** a
 
 Charts: **Candidates by Recruitment Status**, **Hires by Department**, **Average Hiring Time by Department** and **Applications by Month**.
 
-![Recruitment Analytics](screenshots/recruitment-analytics.png)
+![Recruitment Analytics](Screenshots/recruitment-analytics.png)
 
 ### 3. Workforce Insights
 
@@ -50,7 +50,7 @@ KPI cards: **Total Employees**, **Average Annual Salary**, **Female Employees** 
 
 Charts: **Workforce Distribution by Gender**, **Average Annual Salary by Department**, **Workforce Distribution by Age Group** and **Departmental Workforce Composition by Gender**.
 
-![Workforce Insights](screenshots/workforce-insights.png)
+![Workforce Insights](Screenshots/workforce-insights.png)
 
 ## Data Preparation and Transformation
 
@@ -130,7 +130,7 @@ The dataset is simulated and does not describe any real company or person. It is
 ```
 README.md
 PowerBI_HR_Data.xlsx
-screenshots/
+Screenshots/
     executive-overview.png
     recruitment-analytics.png
     workforce-insights.png
