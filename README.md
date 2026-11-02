@@ -6,7 +6,7 @@
 
 This is the Power BI version of my HR analytics work. I took the same employee and recruitment data I used in my Excel dashboard and rebuilt it as a three-page interactive report, so I could see for myself how each tool handles the same questions. Excel got me to a working dashboard. Power BI let me go further: I cleaned the data in Power Query, wrote my own DAX measures, and split the story across three pages so HR leadership can move from the big picture to recruitment detail to workforce demographics.
 
-After five years in HR operations across Nigeria, the UK and Germany, this is the kind of reporting I want to build for a team.
+After five years in HR operations across Nigeria and the UK, this is the kind of reporting I want to build for a team.
 
 ## Project Objectives
 
