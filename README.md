@@ -1,6 +1,6 @@
 # People Analytics & Workforce Insights Dashboard (Power BI)
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](Screenshots/executive-overview.png)
 
 ## Project Overview
 
