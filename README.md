@@ -36,6 +36,14 @@ Slicers: **Department**, **Gender** and **Status**.
 
 ![Executive Overview](Screenshots/executive-overview.png)
 
+**Business Purpose & Stakeholder Value**
+
+The Executive Overview provides a snapshot of the organisation's workforce through key indicators such as total employees, active employees, employees who have left, attrition rate and average annual salary.
+
+I selected these metrics to give stakeholders a quick understanding of the current workforce position and highlight important changes in employee numbers. Departmental and workforce distribution visuals provide additional context, helping management understand how employees are distributed across the organisation.
+
+**Stakeholder Value:** This page helps HR teams and management monitor workforce size, understand employee retention patterns and identify areas that may require further attention. It provides a foundation for workforce planning and strategic HR decision-making.
+
 ### 2. Recruitment Analytics
 
 KPI cards: **Total Candidates**, **Total Hires**, **Recruitment Success Rate** and **Average Time to Hire**.
@@ -44,6 +52,14 @@ Charts: **Candidates by Recruitment Status**, **Hires by Department**, **Average
 
 ![Recruitment Analytics](Screenshots/recruitment-analytics.png)
 
+**Business Purpose & Stakeholder Value**
+
+The Recruitment Analytics page focuses on recruitment activity and hiring effectiveness using metrics such as total candidates, total hires, recruitment success rate and average time to hire.
+
+I selected these metrics to evaluate how recruitment activity translates into successful hires and how long the hiring process takes. Application trends help stakeholders understand changes in candidate volume over time, while departmental comparisons provide insight into recruitment outcomes across different business areas.
+
+**Stakeholder Value:** This page helps HR and recruitment teams monitor hiring performance, evaluate recruitment effectiveness, identify differences in departmental hiring outcomes and assess recruitment timelines. These insights can support improvements in recruitment planning and hiring processes.
+
 ### 3. Workforce Insights
 
 KPI cards: **Total Employees**, **Average Annual Salary**, **Female Employees** and **Male Employees**.
@@ -51,6 +67,14 @@ KPI cards: **Total Employees**, **Average Annual Salary**, **Female Employees** 
 Charts: **Workforce Distribution by Gender**, **Average Annual Salary by Department**, **Workforce Distribution by Age Group** and **Departmental Workforce Composition by Gender**.
 
 ![Workforce Insights](Screenshots/workforce-insights.png)
+
+**Business Purpose & Stakeholder Value**
+
+The Workforce Insights page explores employee characteristics and workforce distribution through departmental headcount, employee demographics, salary patterns and attrition-related metrics.
+
+I chose these dimensions to provide a deeper understanding of the organisation's workforce beyond the headline employee numbers. Departmental comparisons help identify differences in workforce distribution, while demographic and salary analysis provides additional context for understanding the employee population.
+
+**Stakeholder Value:** This page helps HR teams and management understand workforce composition, identify departmental patterns and explore differences in employee demographics and salary distribution. These insights can inform workforce planning, employee retention discussions and future HR strategies.
 
 ## Data Preparation and Transformation
 
